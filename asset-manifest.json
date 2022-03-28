@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/quiz2/static/css/main.e31c5404.css",
+    "main.js": "/quiz2/static/js/main.cf4a383a.js",
+    "static/media/eiffel_tower.jpg": "/quiz2/static/media/eiffel_tower.b777aa0040716999afd5.jpg",
+    "index.html": "/quiz2/index.html",
+    "main.e31c5404.css.map": "/quiz2/static/css/main.e31c5404.css.map",
+    "main.cf4a383a.js.map": "/quiz2/static/js/main.cf4a383a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e31c5404.css",
+    "static/js/main.cf4a383a.js"
+  ]
+}
