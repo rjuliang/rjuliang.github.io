@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/quiz2/static/css/main.e31c5404.css",
-    "main.js": "/quiz2/static/js/main.cf4a383a.js",
-    "static/media/eiffel_tower.jpg": "/quiz2/static/media/eiffel_tower.b777aa0040716999afd5.jpg",
-    "index.html": "/quiz2/index.html",
-    "main.e31c5404.css.map": "/quiz2/static/css/main.e31c5404.css.map",
-    "main.cf4a383a.js.map": "/quiz2/static/js/main.cf4a383a.js.map"
+    "main.css": "/react_spa/static/css/main.e31c5404.css",
+    "main.js": "/react_spa/static/js/main.0b1f659f.js",
+    "static/media/eiffel_tower.jpg": "/react_spa/static/media/eiffel_tower.b777aa0040716999afd5.jpg",
+    "index.html": "/react_spa/index.html",
+    "main.e31c5404.css.map": "/react_spa/static/css/main.e31c5404.css.map",
+    "main.0b1f659f.js.map": "/react_spa/static/js/main.0b1f659f.js.map"
   },
   "entrypoints": [
     "static/css/main.e31c5404.css",
-    "static/js/main.cf4a383a.js"
+    "static/js/main.0b1f659f.js"
   ]
 }
