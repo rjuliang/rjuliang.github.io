@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e31c5404.css",
+    "main.css": "/static/css/main.5b234b6e.css",
     "main.js": "/static/js/main.de7f6bba.js",
     "static/media/eiffel_tower.jpg": "/static/media/eiffel_tower.b777aa0040716999afd5.jpg",
     "index.html": "/index.html",
-    "main.e31c5404.css.map": "/static/css/main.e31c5404.css.map",
+    "main.5b234b6e.css.map": "/static/css/main.5b234b6e.css.map",
     "main.de7f6bba.js.map": "/static/js/main.de7f6bba.js.map"
   },
   "entrypoints": [
-    "static/css/main.e31c5404.css",
+    "static/css/main.5b234b6e.css",
     "static/js/main.de7f6bba.js"
   ]
 }
